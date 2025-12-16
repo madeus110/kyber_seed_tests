@@ -45,3 +45,16 @@ Make sure you are in the `esp/kyber-seed-tests-esp32` directory and that your ES
 idf.py set-target esp32s3
 idf.py build
 idf.py -p /dev/ttyACM0 flash monitor
+```
+License
+No license is granted.
+
+This repository is published without any license. This means:
+
+No one is permitted to copy, modify, distribute, or use this code in any form.
+
+All rights are reserved by the author.
+
+Unauthorized usage, even privately, is legally prohibited.
+
+If you wish to use this project or parts of it, you must contact the author for explicit permission.
