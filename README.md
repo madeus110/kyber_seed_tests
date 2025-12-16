@@ -46,7 +46,7 @@ idf.py set-target esp32s3
 idf.py build
 idf.py -p /dev/ttyACM0 flash monitor
 ```
-License
+## License
 No license is granted.
 
 This repository is published without any license. This means:
@@ -58,3 +58,4 @@ All rights are reserved by the author.
 Unauthorized usage, even privately, is legally prohibited.
 
 If you wish to use this project or parts of it, you must contact the author for explicit permission.
+
